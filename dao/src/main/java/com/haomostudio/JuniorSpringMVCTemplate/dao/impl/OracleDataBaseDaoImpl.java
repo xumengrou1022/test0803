@@ -15,9 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by shidaizhoukan on 2017/3/16.
- */
+
 @Repository(value = "databaseDao")
 public class OracleDataBaseDaoImpl implements DataBaseDao {
 

@@ -8,9 +8,7 @@ import java.lang.reflect.Field;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-/**
- * Created by shidaizhoukan on 2017/3/16.
- */
+
 public class DataBaseOperationUtils {
 
     public static final String DB_TYPE_ORACLE = "oracle";

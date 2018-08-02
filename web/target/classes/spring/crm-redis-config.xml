@@ -4,7 +4,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
        <!--<bean id="redisServer" class="com.haomostudio.redis.RedisServiceImpl" init-method="init">-->
-           <!--<property name="redisIp" value="127.0.0.1"></property>-->
-           <!--<property name="redisPort" value="6379"></property>-->
+           <!--<property name="redisIp" value="${redis.ip}"></property>-->
+           <!--<property name="redisPort" value="${redis.port}"></property>-->
        <!--</bean>-->
 </beans>

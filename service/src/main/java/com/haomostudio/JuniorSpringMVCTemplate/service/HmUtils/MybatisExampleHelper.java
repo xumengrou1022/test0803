@@ -10,9 +10,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.*;
 
-/**
- * Created by hxgqh on 2016/10/7.
- */
+
 public class MybatisExampleHelper {
     /**
      * 创建mybatis的函数setOrderByClause支持的排序格式

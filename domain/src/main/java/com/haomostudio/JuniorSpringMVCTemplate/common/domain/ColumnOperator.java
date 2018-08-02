@@ -1,8 +1,6 @@
 package com.haomostudio.JuniorSpringMVCTemplate.common.domain;
 
-/**
- * Created by macam on 16/4/15.
- */
+
 public enum ColumnOperator {
     equal("eq", "="),
     neq("neq", "<>"),

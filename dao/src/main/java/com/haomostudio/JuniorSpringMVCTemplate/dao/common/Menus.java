@@ -2,9 +2,7 @@ package com.haomostudio.JuniorSpringMVCTemplate.dao.common;
 
 import java.util.Date;
 
-/**
- * Created by yide on 2018/1/2.
- */
+
 public class Menus {
     private String addOnly;
 

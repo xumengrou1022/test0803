@@ -1,8 +1,6 @@
 package com.haomostudio.JuniorSpringMVCTemplate.common;
 
-/**
- * Created by guanpb on 2017/5/2.
- */
+
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.ConfigurableListableBeanFactory;
 import org.springframework.beans.factory.config.PropertyPlaceholderConfigurer;

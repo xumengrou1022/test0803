@@ -1,8 +1,6 @@
 package com.haomostudio.JuniorSpringMVCTemplate.common.util;
 
-/**
- * Created by Administrator on 2016/2/27.
- */
+
 public class Constants {
 
     public static final char UNDERLINE = '_';

@@ -10,9 +10,7 @@ import org.springframework.web.context.request.NativeWebRequest;
 import org.springframework.web.method.support.HandlerMethodArgumentResolver;
 import org.springframework.web.method.support.ModelAndViewContainer;
 
-/**
- * Created by Stevie on 2015/12/22.
- */
+
 
 public class EmptyRequestParamResolver implements HandlerMethodArgumentResolver {
 

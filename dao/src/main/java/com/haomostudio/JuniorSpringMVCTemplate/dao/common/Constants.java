@@ -1,8 +1,6 @@
 package com.haomostudio.JuniorSpringMVCTemplate.dao.common;
 
-/**
- * Created by shidaizhoukan on 2017/3/16.
- */
+
 public class Constants {
 
     public static final char UNDERLINE = '_';

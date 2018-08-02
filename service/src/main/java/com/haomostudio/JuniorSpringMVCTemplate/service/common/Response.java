@@ -3,9 +3,7 @@ package com.haomostudio.JuniorSpringMVCTemplate.service.common;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by Administrator on 2016/1/8.
- */
+
 public class Response {
 
     private Integer code;

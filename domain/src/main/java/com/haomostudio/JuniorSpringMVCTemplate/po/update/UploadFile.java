@@ -2,9 +2,7 @@ package com.haomostudio.JuniorSpringMVCTemplate.po.update;
 
 import java.io.Serializable;
 
-/**
- * Created by wuchunyang on 2017/7/28.
- */
+
 public class UploadFile implements Serializable {
     private String saveName ;
 

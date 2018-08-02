@@ -1,71 +1,428 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="web:war" />
-    </artifacts-to-build>
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="37f7a22c-b7e6-4db8-874a-c9468858b87b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/AuthTokenController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/CcLoggingController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/CcNotificationSettingController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/DepartmentController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/FunctionAuthorityController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/HmLogController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/HmUserController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/MenuController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/OrganizationController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/RoleController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/RoleFunctionController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/RoleMenuController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/ViewHmUserDepartmentRoleController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/milk.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/AuthTokenController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/CcLoggingController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/CcNotificationSettingController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/DepartmentController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/FunctionAuthorityController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/HmLogController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/HmUserController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/MenuController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/OrganizationController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/RoleController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/RoleFunctionController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/RoleMenuController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/com/haomostudio/JuniorSpringMVCTemplate/controller/ViewHmUserDepartmentRoleController.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/JuniorSpringMVCTemplates.iml" afterPath="$PROJECT_DIR$/JuniorSpringMVCTemplate.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/main/test/com/haomostudio/milk/test/Test.java" afterPath="$PROJECT_DIR$/web/src/main/test/com/haomostudio/JuniorSpringMVCTemplate/test/Test.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/main/test/com/haomostudio/milk/test/hello_word.pdf" afterPath="$PROJECT_DIR$/web/src/main/test/com/haomostudio/JuniorSpringMVCTemplate/test/hello_word.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web/src/main/test/com/haomostudio/milk/util/MyJob.java" afterPath="$PROJECT_DIR$/web/src/main/test/com/haomostudio/JuniorSpringMVCTemplate/util/MyJob.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/dao-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/dao-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/domain-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/domain-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/service-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/service-0.0.1-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/web_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/web_war.xml" />
+    <list default="true" id="a04df7b5-503a-45c5-b944-a15a584f5340" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/AuthTokenService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/CcLoggingService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/CcNotificationSettingService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/DepartmentService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/FunctionAuthorityService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/HmLogService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/HmUserService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/MenuService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/OrganizationService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/RoleFunctionService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/RoleMenuService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/RoleService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/ViewHmUserDepartmentRoleService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/AuthTokenServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/CcLoggingServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/CcNotificationSettingServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/DepartmentServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/FunctionAuthorityServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/HmLogServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/HmUserServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/MenuServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/OrganizationServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/RoleFunctionServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/RoleMenuServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/RoleServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/ViewHmUserDepartmentRoleServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/AuthTokenController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/CcLoggingController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/CcNotificationSettingController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/DepartmentController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/FunctionAuthorityController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/HmLogController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/HmUserController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/MenuController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/OrganizationController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/RoleController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/RoleFunctionController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/RoleMenuController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/ViewHmUserDepartmentRoleController.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JuniorSpringMVCTemplate.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/AuthTokenMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/CcLoggingMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/CcNotificationSettingMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/DepartmentMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/FunctionAuthorityMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/HmLogMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/HmUserMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/MenuMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/OrganizationMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/RoleFunctionMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/RoleMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/RoleMenuMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/TeamMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/ViewHmUserDepartmentRoleMapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/common/Constants$FilingHandleStatus.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/common/Constants$UserQueryConditionType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/common/Constants.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/common/Menus.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/common/util/DataBaseOperationUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/impl/DataBaseDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dao/target/classes/com/haomostudio/JuniorSpringMVCTemplate/dao/impl/OracleDataBaseDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/common/domain/Column.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/common/domain/ColumnOperator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/common/util/BeanHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/common/util/Constants$FilingHandleStatus.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/common/util/Constants$UserQueryConditionType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/common/util/Constants.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/common/util/DataBaseOperationUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/common/util/SuperBeanHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/AuthToken.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/AuthTokenExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/AuthTokenExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/AuthTokenExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/AuthTokenExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/CcLogging.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/CcLoggingExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/CcLoggingExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/CcLoggingExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/CcLoggingExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/CcNotificationSetting.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/CcNotificationSettingExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/CcNotificationSettingExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/CcNotificationSettingExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/CcNotificationSettingExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/Department.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/DepartmentExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/DepartmentExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/DepartmentExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/DepartmentExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/FunctionAuthority.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/FunctionAuthorityExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/FunctionAuthorityExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/FunctionAuthorityExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/FunctionAuthorityExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/HmLog.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/HmLogExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/HmLogExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/HmLogExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/HmLogExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/HmUser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/HmUserExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/HmUserExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/HmUserExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/HmUserExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/Menu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/MenuExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/MenuExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/MenuExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/MenuExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/Organization.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/OrganizationExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/OrganizationExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/OrganizationExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/OrganizationExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/Role.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/RoleExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/RoleExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/RoleExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/RoleExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/RoleFunction.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/RoleFunctionExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/RoleFunctionExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/RoleFunctionExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/RoleFunctionExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/RoleMenu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/RoleMenuExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/RoleMenuExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/RoleMenuExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/RoleMenuExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/Team.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/TeamExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/TeamExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/TeamExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/TeamExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/ViewHmUserDepartmentRole.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/ViewHmUserDepartmentRoleExample$Criteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/ViewHmUserDepartmentRoleExample$Criterion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/ViewHmUserDepartmentRoleExample$GeneratedCriteria.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/ViewHmUserDepartmentRoleExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/po/update/UploadFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/vo/AuthTokenVO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/vo/CcLoggingVO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/vo/CcNotificationSettingVO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/vo/DepartmentVO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/vo/FunctionAuthorityVO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/vo/HmLogVO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/vo/HmUserVO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/vo/MenuVO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/vo/OrganizationVO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/vo/RoleFunctionVO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/vo/RoleMenuVO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/vo/RoleVO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/JuniorSpringMVCTemplate/vo/ViewHmUserDepartmentRoleVO.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/domain/target/classes/com/haomostudio/Util/Util.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/AuthTokenService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/CcLoggingService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/CcNotificationSettingService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/DepartmentService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/FunctionAuthorityService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/HmLogService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/HmUserService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/HmUtils/MybatisExampleHelper$1$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/HmUtils/MybatisExampleHelper$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/HmUtils/MybatisExampleHelper$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/HmUtils/MybatisExampleHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/HmUtils/Tools.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/MenuService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/OrganizationService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/RoleFunctionService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/RoleMenuService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/RoleService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/ViewHmUserDepartmentRoleService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/common/GenericService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/common/Response.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/common/Token.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/common/service/DataBaseService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/common/service/impl/OracleDataBaseServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/impl/AuthTokenServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/impl/CcLoggingServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/impl/CcNotificationSettingServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/impl/DepartmentServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/impl/FunctionAuthorityServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/impl/HmLogServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/impl/HmUserServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/impl/MenuServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/impl/OrganizationServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/impl/RoleFunctionServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/impl/RoleMenuServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/impl/RoleServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/service/target/classes/com/haomostudio/JuniorSpringMVCTemplate/service/impl/ViewHmUserDepartmentRoleServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/JuniorSpringMVCTemplate.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/haomostudio/JuniorSpringMVCTemplate/SwaggerConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/haomostudio/JuniorSpringMVCTemplate/common/MyJob.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/haomostudio/JuniorSpringMVCTemplate/common/PropertyConfigurer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/haomostudio/JuniorSpringMVCTemplate/common/Resp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/haomostudio/JuniorSpringMVCTemplate/servlet/DefaultHandlerExceptionResolver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/classes/com/haomostudio/JuniorSpringMVCTemplate/servlet/EmptyRequestParamResolver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/application-files.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/application.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/com/haomostudio/JuniorSpringMVCTemplate/SwaggerConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/com/haomostudio/JuniorSpringMVCTemplate/common/MyJob.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/com/haomostudio/JuniorSpringMVCTemplate/common/PropertyConfigurer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/com/haomostudio/JuniorSpringMVCTemplate/common/Resp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/com/haomostudio/JuniorSpringMVCTemplate/servlet/DefaultHandlerExceptionResolver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/com/haomostudio/JuniorSpringMVCTemplate/servlet/EmptyRequestParamResolver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/config/application.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/config/config.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/config/data-access.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/config/important.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/database.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/filePath.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/logback.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/mybatis/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/mybatis/com/haomostudio/JuniorSpringMVCTemplate/.gitKeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/mybatis/com/haomostudio/JuniorSpringMVCTemplate/AuthTokenMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/mybatis/com/haomostudio/JuniorSpringMVCTemplate/CcLoggingMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/mybatis/com/haomostudio/JuniorSpringMVCTemplate/CcNotificationSettingMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/mybatis/com/haomostudio/JuniorSpringMVCTemplate/DepartmentMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/mybatis/com/haomostudio/JuniorSpringMVCTemplate/FunctionAuthorityMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/mybatis/com/haomostudio/JuniorSpringMVCTemplate/HmLogMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/mybatis/com/haomostudio/JuniorSpringMVCTemplate/HmUserMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/mybatis/com/haomostudio/JuniorSpringMVCTemplate/MenuMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/mybatis/com/haomostudio/JuniorSpringMVCTemplate/OrganizationMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/mybatis/com/haomostudio/JuniorSpringMVCTemplate/RoleFunctionMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/mybatis/com/haomostudio/JuniorSpringMVCTemplate/RoleMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/mybatis/com/haomostudio/JuniorSpringMVCTemplate/RoleMenuMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/mybatis/com/haomostudio/JuniorSpringMVCTemplate/TeamMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/mybatis/com/haomostudio/JuniorSpringMVCTemplate/ViewHmUserDepartmentRoleMapper.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/sap.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/scan-quartz.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/spring/business-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/spring/crm-redis-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/spring/datasource-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/spring/mybatis-3-config.dtd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/spring/spring-mvc-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/spring/sql-map-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/stencilset.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/webapp/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/activation-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/antlr-2.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/asm-3.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/aspectjrt-1.8.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/aspectjweaver-1.8.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/avro-1.7.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/c3p0-0.9.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/cdi-api-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/cglib-2.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/classmate-1.3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/commons-beanutils-1.8.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/commons-beanutils-core-1.8.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/commons-cli-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/commons-codec-1.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/commons-collections-3.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/commons-collections4-4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/commons-compress-1.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/commons-configuration-1.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/commons-digester-1.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/commons-el-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/commons-fileupload-1.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/commons-httpclient-3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/commons-io-2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/commons-lang-2.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/commons-lang3-3.3.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/commons-math3-3.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/commons-net-3.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/commons-pool2-2.4.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/curvesapi-1.04.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/dao-0.0.1-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/dom4j-1.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/domain-0.0.1-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/fastjson-1.2.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/groovy-all-2.4.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/gson-2.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/guava-17.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/hadoop-annotations-2.3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/hadoop-auth-2.3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/hadoop-common-2.3.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/hibernate-commons-annotations-4.0.2.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/hibernate-core-4.2.5.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/hibernate-entitymanager-4.2.5.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/httpclient-4.5.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/httpcore-4.4.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/httpmime-4.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jackson-annotations-2.4.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jackson-core-2.4.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jackson-core-asl-1.8.8.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jackson-databind-2.4.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jackson-jaxrs-1.8.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jackson-xc-1.8.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jasper-compiler-5.5.23.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jasper-runtime-5.5.23.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/java-xmlbuilder-0.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/javassist-3.15.0-GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/javax.inject-1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jaxb-api-2.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jaxb-impl-2.2.3-1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jboss-logging-3.1.0.GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jboss-transaction-api_1.1_spec-1.0.1.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jcl-over-slf4j-1.7.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jedis-2.8.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jersey-core-1.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jersey-json-1.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jersey-server-1.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jets3t-0.9.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jettison-1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jetty-6.1.26.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jetty-util-6.1.26.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/joda-time-2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jodd-3.3.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jpush-client-3.2.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jsch-0.1.42.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jsp-api-2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jsr250-api-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jsr305-1.3.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/log4j-1.2.17.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/logback-classic-1.1.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/logback-core-1.1.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/maven-artifact-3.3.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/maven-model-3.3.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/maven-plugin-api-3.3.9.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/mybatis-3.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/mybatis-generator-core-1.3.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/mybatis-generator-maven-plugin-1.3.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/mybatis-paginator-1.2.15.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/mybatis-spring-1.2.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/mysql-connector-java-5.1.38.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/org.eclipse.sisu.inject-0.3.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/org.eclipse.sisu.plexus-0.3.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/paranamer-2.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/plexus-classworlds-2.5.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/plexus-component-annotations-1.5.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/plexus-utils-3.0.22.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/plugin-1.0.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/poi-3.17.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/poi-ooxml-3.17.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/poi-ooxml-schemas-3.17.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/protobuf-java-2.5.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/quartz-2.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/quartz-jobs-2.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/service-0.0.1-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/slf4j-api-1.7.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/slf4j-log4j12-1.7.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/snappy-java-1.0.4.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/spring-aop-4.1.8.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/spring-beans-4.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/spring-context-4.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/spring-context-support-4.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/spring-core-4.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/spring-data-commons-1.11.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/spring-data-jpa-1.9.1.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/spring-expression-4.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/spring-jdbc-4.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/spring-orm-4.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/spring-plugin-core-1.2.0.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/spring-plugin-metadata-1.2.0.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/spring-tx-4.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/spring-web-4.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/spring-webmvc-4.1.4.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/springfox-core-2.4.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/springfox-schema-2.4.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/springfox-spi-2.4.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/springfox-spring-web-2.4.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/springfox-swagger-common-2.4.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/springfox-swagger-ui-2.4.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/springfox-swagger2-2.4.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/stax-api-1.0-2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/stax-api-1.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/swagger-annotations-1.5.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/swagger-models-1.5.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/tomcat-jdbc-7.0.52.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/tomcat-juli-7.0.52.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/underscore-1.16.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/xmlbeans-2.6.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/xmlenc-0.52.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/xz-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/lib/zookeeper-3.4.5.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/web.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/web_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dao/pom.xml" afterPath="$PROJECT_DIR$/dao/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/deploy.sh" afterPath="$PROJECT_DIR$/deploy.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/domain/pom.xml" afterPath="$PROJECT_DIR$/domain/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/common/Constants.java" afterPath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/common/Constants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/common/Menus.java" afterPath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/common/Menus.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/common/util/DataBaseOperationUtils.java" afterPath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/common/util/DataBaseOperationUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/impl/DataBaseDao.java" afterPath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/impl/DataBaseDao.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/impl/OracleDataBaseDaoImpl.java" afterPath="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/impl/OracleDataBaseDaoImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/domain/ColumnOperator.java" afterPath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/domain/ColumnOperator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/util/Constants.java" afterPath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/util/Constants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/update/UploadFile.java" afterPath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/update/UploadFile.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/Util/Util.java" afterPath="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/Util/Util.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service/pom.xml" afterPath="$PROJECT_DIR$/service/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/pom.xml" afterPath="$PROJECT_DIR$/web/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/src/main/resources/filePath.properties" afterPath="$PROJECT_DIR$/web/src/main/resources/filePath.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/target/classes/application.properties" afterPath="$PROJECT_DIR$/web/target/classes/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/target/classes/filePath.properties" afterPath="$PROJECT_DIR$/web/target/classes/filePath.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/HmUtils/MybatisExampleHelper.java" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/HmUtils/MybatisExampleHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/HmUtils/Tools.java" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/HmUtils/Tools.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/common/GenericService.java" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/common/GenericService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/common/Response.java" afterPath="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/common/Response.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/src/main/filters/dev.properties" afterPath="$PROJECT_DIR$/web/src/main/filters/dev.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/PropertyConfigurer.java" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/PropertyConfigurer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/servlet/EmptyRequestParamResolver.java" afterPath="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/servlet/EmptyRequestParamResolver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/src/main/test/com/haomostudio/JuniorSpringMVCTemplate/test/Test.java" afterPath="$PROJECT_DIR$/web/src/main/test/com/haomostudio/JuniorSpringMVCTemplate/test/Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/target/classes/spring/crm-redis-config.xml" afterPath="$PROJECT_DIR$/web/target/classes/spring/crm-redis-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/application.properties" afterPath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/filePath.properties" afterPath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/filePath.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/spring/crm-redis-config.xml" afterPath="$PROJECT_DIR$/web/target/web/WEB-INF/classes/spring/crm-redis-config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/target/classes/spring/datasource-config.xml" afterPath="$PROJECT_DIR$/web/target/classes/spring/datasource-config.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/dao/target/" />
-    <ignored path="$PROJECT_DIR$/service/target/" />
-    <ignored path="$PROJECT_DIR$/domain/target/" />
     <ignored path="$PROJECT_DIR$/web/target/" />
+    <ignored path="$PROJECT_DIR$/service/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/domain/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,92 +430,100 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ErrorTreeViewConfiguration">
-    <option name="hideWarnings" value="true" />
-    <option name="HIDE_WARNINGS" value="true" />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="AuthToken.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/AuthToken.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RoleMenuVO.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/vo/RoleMenuVO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+            <state relative-caret-position="792">
+              <caret line="51" column="16" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#909#910#0" expanded="true" />
+                <element signature="e#951#952#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/pom.xml">
+      <file leaf-file-name="AuthTokenController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/AuthTokenController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="46" lean-forward="false" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+            <state relative-caret-position="264">
+              <caret line="33" column="48" lean-forward="false" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/pom.xml">
+      <file leaf-file-name="HmUserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/HmUserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+            <state relative-caret-position="2688">
+              <caret line="127" column="5" lean-forward="false" selection-start-line="127" selection-start-column="5" selection-end-line="127" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/domain/pom.xml">
+      <file leaf-file-name="HmUserMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/HmUserMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="56" lean-forward="false" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+            <state relative-caret-position="216">
+              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dao/pom.xml">
+      <file leaf-file-name="HmUserMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/resources/mybatis/com/haomostudio/JuniorSpringMVCTemplate/HmUserMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="60" lean-forward="false" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+            <state relative-caret-position="2784">
+              <caret line="116" column="11" lean-forward="false" selection-start-line="116" selection-start-column="11" selection-end-line="116" selection-end-column="11" />
+              <folding>
+                <marker date="1533204219047" expanded="true" signature="5177:5280" ph="select from hm_user" />
+                <marker date="1533204219047" expanded="true" signature="5365:5422" ph="delete from " />
+                <marker date="1533204219047" expanded="true" signature="5544:5563" ph="delete from " />
+                <marker date="1533204219047" expanded="true" signature="5761:6825" ph="insert into hm_user... " />
+                <marker date="1533204219047" expanded="true" signature="10633:10661" ph="select count... hm_user" />
+                <marker date="1533204219047" expanded="true" signature="13528:14785" ph="update hm_us... " />
+                <marker date="1533204219047" expanded="true" signature="15014:17192" ph="update hm_us... " />
+                <marker date="1533204219047" expanded="true" signature="17310:18416" ph="update hm_us... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HmUserService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/HmUserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="912">
+              <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyJob.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/src/main/test/com/haomostudio/JuniorSpringMVCTemplate/util/MyJob.java">
+      <file leaf-file-name="HmUserServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/HmUserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="3048">
+              <caret line="159" column="31" lean-forward="false" selection-start-line="159" selection-start-column="31" selection-end-line="159" selection-end-column="31" />
+              <folding>
+                <element signature="e#2234#2235#0" expanded="true" />
+                <element signature="e#2303#2304#0" expanded="true" />
+                <element signature="e#5778#5779#0" expanded="true" />
+                <element signature="e#5836#5837#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoleMenuController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/RoleMenuController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -168,14 +533,10 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>com.haomostudio.SeekTruthBackend.</find>
-      <find>com.haomostudio.digitizing.</find>
-      <find>JuniorSpringMVCTemplates</find>
-      <find>milk</find>
+      <find>/hm_users/new</find>
     </findStrings>
     <replaceStrings>
-      <replace>com.haomostudio.JuniorSpringMVCTemplate.</replace>
-      <replace>JuniorSpringMVCTemplate</replace>
+      <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -189,27 +550,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/util/DataBaseOperationUtils.java" />
-        <option value="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/count/AboutUsController.java" />
-        <option value="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/AboutUsController.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/AboutUsService.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/AboutUsServiceImpl.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/AuthTokenService.java" />
-        <option value="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/AuthTokenServiceImpl.java" />
-        <option value="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/AuthTokenVO.java" />
-        <option value="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/HmLog.java" />
-        <option value="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/RoleFunctionMapper.java" />
-        <option value="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/CcLoggingMapper.java" />
-        <option value="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/AuthTokenMapper.java" />
-        <option value="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/vo/AuthTokenVO.java" />
-        <option value="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/AuthTokenController.java" />
-        <option value="$PROJECT_DIR$/web/src/main/filters/dev.properties" />
-        <option value="$PROJECT_DIR$/domain/pom.xml" />
-        <option value="$PROJECT_DIR$/service/pom.xml" />
-        <option value="$PROJECT_DIR$/web/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/dao/pom.xml" />
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/HmUserService.java" />
+        <option value="$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/HmUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/HmUserController.java" />
       </list>
     </option>
   </component>
@@ -219,40 +562,27 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="false" />
-    <option name="FILTER_DEBUG" value="false" />
-    <option name="CUSTOM_FILTER" />
-  </component>
   <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.5.0" />
-        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.5.0/conf/settings.xml" />
-      </MavenGeneralSettings>
+    <option name="disabledProfiles">
+      <list>
+        <option value="dev" />
+      </list>
     </option>
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -262,64 +592,37 @@
             <id />
           </State>
           <State>
+            <id>AOP</id>
+          </State>
+          <State>
             <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Ali-Check</id>
           </State>
           <State>
             <id>Android</id>
           </State>
           <State>
-            <id>Android &gt; Lint &gt; Accessibility</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Correctness</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Correctness &gt; Chrome OS</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Internationalization</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Internationalization &gt; Bidirectional Text</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Performance</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Security</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Usability</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
-          </State>
-          <State>
-            <id>Android &gt; Lint &gt; Usability &gt; Typography</id>
-          </State>
-          <State>
-            <id>Android Lint for Kotlin</id>
+            <id>Android Lint</id>
           </State>
           <State>
             <id>Application Server Specific Inspections</id>
           </State>
           <State>
+            <id>Assignment issuesGroovy</id>
+          </State>
+          <State>
             <id>Assignment issuesJava</id>
           </State>
           <State>
-            <id>Bean Validation issues</id>
-          </State>
-          <State>
-            <id>Bitwise operation issuesJava</id>
-          </State>
-          <State>
-            <id>Bitwise operation issuesJavaScript</id>
+            <id>Assignment issuesJavaScript</id>
           </State>
           <State>
             <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>CFML</id>
           </State>
           <State>
             <id>CSS</id>
@@ -334,16 +637,7 @@
             <id>Cloning issuesJava</id>
           </State>
           <State>
-            <id>Code maturity issuesJava</id>
-          </State>
-          <State>
             <id>Code style issuesJava</id>
-          </State>
-          <State>
-            <id>Code style issuesJavaScript</id>
-          </State>
-          <State>
-            <id>CodeSpring CoreSpring</id>
           </State>
           <State>
             <id>CoffeeScript</id>
@@ -361,19 +655,25 @@
             <id>Control flow issuesJavaScript</id>
           </State>
           <State>
-            <id>Cucumber</id>
+            <id>Cucumber Java</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Data flow issuesJava</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
           </State>
           <State>
             <id>Declaration redundancyJava</id>
           </State>
           <State>
-            <id>DeclarationGroovy</id>
-          </State>
-          <State>
             <id>Dependency issuesJava</id>
-          </State>
-          <State>
-            <id>ECMAScript 6 migration aidsJavaScript</id>
           </State>
           <State>
             <id>Encapsulation issuesJava</id>
@@ -391,13 +691,10 @@
             <id>Faces Model</id>
           </State>
           <State>
+            <id>FlexUnit inspections</id>
+          </State>
+          <State>
             <id>FreeMarker inspections</id>
-          </State>
-          <State>
-            <id>GPath inspectionsGroovy</id>
-          </State>
-          <State>
-            <id>GSPGrailsGroovy</id>
           </State>
           <State>
             <id>General</id>
@@ -412,22 +709,16 @@
             <id>Google Web Toolkit issues</id>
           </State>
           <State>
-            <id>Gradle</id>
-          </State>
-          <State>
-            <id>GrailsGroovy</id>
-          </State>
-          <State>
             <id>Groovy</id>
           </State>
           <State>
             <id>Guice Inspections</id>
           </State>
           <State>
-            <id>HTML</id>
+            <id>Hibernate Issues</id>
           </State>
           <State>
-            <id>Hibernate Issues</id>
+            <id>ImportsJava</id>
           </State>
           <State>
             <id>Inheritance issuesJava</id>
@@ -437,6 +728,12 @@
           </State>
           <State>
             <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>J2ME SupportJava</id>
           </State>
           <State>
             <id>J2ME issuesJava</id>
@@ -457,31 +754,13 @@
             <id>Java</id>
           </State>
           <State>
-            <id>Java 5Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java 7Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java 8Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java 9Java language level migration aidsJava</id>
-          </State>
-          <State>
             <id>Java EE issues</id>
           </State>
           <State>
-            <id>Java interop issuesKotlin</id>
+            <id>Java language level issuesJava</id>
           </State>
           <State>
             <id>Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>JavaBeans issuesJava</id>
-          </State>
-          <State>
-            <id>JavaFX</id>
           </State>
           <State>
             <id>JavaScript</id>
@@ -490,19 +769,16 @@
             <id>JavaScript function metricsJavaScript</id>
           </State>
           <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
             <id>Javadoc issuesJava</id>
           </State>
           <State>
             <id>Kotlin</id>
           </State>
           <State>
-            <id>Language Injection</id>
-          </State>
-          <State>
             <id>Logging issuesJava</id>
-          </State>
-          <State>
-            <id>Manifest</id>
           </State>
           <State>
             <id>Maven</id>
@@ -515,9 +791,6 @@
           </State>
           <State>
             <id>Method metricsJava</id>
-          </State>
-          <State>
-            <id>Modularization issuesJava</id>
           </State>
           <State>
             <id>Naming ConventionsGroovy</id>
@@ -538,6 +811,9 @@
             <id>Packaging issuesJava</id>
           </State>
           <State>
+            <id>Pages Navigation Model</id>
+          </State>
+          <State>
             <id>Pattern Validation</id>
           </State>
           <State>
@@ -547,43 +823,22 @@
             <id>Plugin DevKit</id>
           </State>
           <State>
-            <id>Portability issuesJava</id>
-          </State>
-          <State>
             <id>Potentially confusing code constructsGroovy</id>
-          </State>
-          <State>
-            <id>Potentially confusing code constructsJavaScript</id>
-          </State>
-          <State>
-            <id>Probable bugsCSS</id>
-          </State>
-          <State>
-            <id>Probable bugsGradle</id>
           </State>
           <State>
             <id>Probable bugsJava</id>
           </State>
           <State>
-            <id>Probable bugsJavaScript</id>
-          </State>
-          <State>
-            <id>Probable bugsKotlin</id>
-          </State>
-          <State>
             <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Properties FilesJava</id>
           </State>
           <State>
             <id>RELAX NG</id>
           </State>
           <State>
-            <id>Redundant constructsKotlin</id>
-          </State>
-          <State>
-            <id>Reflective access issuesJava</id>
-          </State>
-          <State>
-            <id>RegExp</id>
+            <id>RESTful Web Service</id>
           </State>
           <State>
             <id>Resource management issuesJava</id>
@@ -598,16 +853,10 @@
             <id>Serialization issuesJava</id>
           </State>
           <State>
-            <id>SetupSpring CoreSpring</id>
-          </State>
-          <State>
             <id>Spring</id>
           </State>
           <State>
-            <id>Spring AOPSpring</id>
-          </State>
-          <State>
-            <id>Spring CoreSpring</id>
+            <id>Spring MVCSpring</id>
           </State>
           <State>
             <id>Struts</id>
@@ -616,7 +865,7 @@
             <id>Struts 1Struts</id>
           </State>
           <State>
-            <id>Style issuesKotlin</id>
+            <id>Struts 2Struts</id>
           </State>
           <State>
             <id>TestNGJava</id>
@@ -640,16 +889,22 @@
             <id>Verbose or redundant code constructsJava</id>
           </State>
           <State>
+            <id>Visibility issuesJava</id>
+          </State>
+          <State>
+            <id>Web Services</id>
+          </State>
+          <State>
             <id>WebSocket issues</id>
           </State>
           <State>
             <id>XML</id>
           </State>
           <State>
-            <id>XMLSpring CoreSpring</id>
+            <id>XPath</id>
           </State>
           <State>
-            <id>XPath</id>
+            <id>XSLT</id>
           </State>
         </expanded-state>
       </profile-state>
@@ -671,9 +926,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -684,62 +938,6 @@
             <path>
               <item name="JuniorSpringMVCTemplate" type="b2602c69:ProjectViewProjectNode" />
               <item name="JuniorSpringMVCTemplate" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JuniorSpringMVCTemplate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JuniorSpringMVCTemplate" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JuniorSpringMVCTemplate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JuniorSpringMVCTemplate" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JuniorSpringMVCTemplate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JuniorSpringMVCTemplate" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JuniorSpringMVCTemplate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JuniorSpringMVCTemplate" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="haomostudio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JuniorSpringMVCTemplate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JuniorSpringMVCTemplate" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="haomostudio" type="462c0819:PsiDirectoryNode" />
-              <item name="JuniorSpringMVCTemplate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JuniorSpringMVCTemplate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JuniorSpringMVCTemplate" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="haomostudio" type="462c0819:PsiDirectoryNode" />
-              <item name="JuniorSpringMVCTemplate" type="462c0819:PsiDirectoryNode" />
-              <item name="vo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JuniorSpringMVCTemplate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JuniorSpringMVCTemplate" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -778,7 +976,9 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="JuniorSpringMVCTemplate" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JuniorSpringMVCTemplate" type="b2602c69:ProjectViewProjectNode" />
@@ -786,44 +986,27 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JuniorSpringMVCTemplate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="JuniorSpringMVCTemplate" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="haomostudio" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
-    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/pdm" />
-      <recent name="$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao" />
-      <recent name="$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/" />
-      <recent name="$PROJECT_DIR$/web/src/main/resources/mybatis/com/haomostudio/JuniorSpringMVCTemplate" />
-      <recent name="$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller" />
-    </key>
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -837,18 +1020,116 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Unnamed">
-    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.30" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8">
-      <option name="UPDATING_POLICY" value="restart-server" />
+  <component name="RunManager" selected="Tomcat Server.web">
+    <configuration name="Unnamed" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="web" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:1106/web/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
-        <artifact name="web:war">
+        <artifact name="web:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/" />
+            <option name="CONTEXT_PATH" value="/web" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_milk_4" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_JuniorSpringMVCTemplate" />
+        <option name="HTTP_PORT" value="1106" />
+        <option name="JNDI_PORT" value="1097" />
       </server-settings>
       <predefined_log_file id="Tomcat" enabled="true" />
       <predefined_log_file id="Tomcat Catalina" enabled="true" />
@@ -857,7 +1138,7 @@
       <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="62969" />
+        <option name="DEBUG_PORT" value="61269" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -906,445 +1187,66 @@
       </ConfigurationWrapper>
       <method>
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="web:war" />
+          <artifact name="web:war exploded" />
         </option>
       </method>
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="JuniorSpringMVCTemplates" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-    </configuration>
-    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="JuniorSpringMVCTemplates" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="JuniorSpringMVCTemplates" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JuniorSpringMVCTemplates" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="JuniorSpringMVCTemplates" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_regexPattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="JuniorSpringMVCTemplates" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <module name="JuniorSpringMVCTemplates" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="JuniorSpringMVCTemplates" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_regexPattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="JuniorSpringMVCTemplates" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="JuniorSpringMVCTemplates" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="py.test">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.web" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\lenovo\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="37f7a22c-b7e6-4db8-874a-c9468858b87b" name="Default" comment="" />
-      <created>1532940984777</created>
+      <changelist id="a04df7b5-503a-45c5-b944-a15a584f5340" name="Default" comment="" />
+      <created>1533214227288</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1532940984777</updated>
-      <workItem from="1532940988499" duration="718000" />
-      <workItem from="1532942346183" duration="119000" />
-      <workItem from="1532942502581" duration="366000" />
-      <workItem from="1532944331902" duration="1130000" />
-      <workItem from="1533038117423" duration="53000" />
-      <workItem from="1533038201356" duration="658000" />
-      <workItem from="1533038874791" duration="311000" />
-      <workItem from="1533039211388" duration="170000" />
-      <workItem from="1533039404848" duration="322000" />
+      <updated>1533214227288</updated>
+      <workItem from="1533214230483" duration="2710000" />
+      <workItem from="1533216995423" duration="21000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4302000" />
+    <option name="totallyTimeSpent" value="2731000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39925373" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.52238804" sideWeight="0.49713877" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23462088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.502445" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18276283" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26763716" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51735723" sideWeight="0.49755502" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23716381" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10974244" sideWeight="0.49755502" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1353,384 +1255,195 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="WindowStateProjectService">
+    <state width="249" height="366" key="Git.Branch.Popup" />
+    <state width="249" height="366" key="Git.Branch.Popup/1680.1050/1680.1050" />
+    <state width="249" height="366" key="Git.Branch.Popup@1680.1050" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/RoleFunctionMapper.java">
+    <entry file="file://$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/AuthToken.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="792">
+          <caret line="51" column="16" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
+          <folding>
+            <element signature="e#909#910#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/HmUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2688">
+          <caret line="127" column="5" lean-forward="true" selection-start-line="127" selection-start-column="5" selection-end-line="127" selection-end-column="5" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/pdm/org.pdm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/common/util/DataBaseOperationUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/AboutUsController.java" />
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/AboutUsService.java" />
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/AboutUsServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/AuthTokenVO.java" />
-    <entry file="file://$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/CcLogging.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/CcNotificationSettingExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/FunctionAuthorityExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/AuthTokenExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/CcLoggingExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/RoleFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/ViewHmUserDepartmentRole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/TeamExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/HmLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/RoleMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/HmUserMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/MenuMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/TeamMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/ViewHmUserDepartmentRoleMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/OrganizationMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/DepartmentMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/RoleFunctionMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="216">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/CcLoggingMapper.java">
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/mybatis/com/haomostudio/JuniorSpringMVCTemplate/HmUserMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="2784">
+          <caret line="116" column="11" lean-forward="true" selection-start-line="116" selection-start-column="11" selection-end-line="116" selection-end-column="11" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <marker date="1533204219047" expanded="true" signature="5177:5280" ph="select from hm_user" />
+            <marker date="1533204219047" expanded="true" signature="5365:5422" ph="delete from " />
+            <marker date="1533204219047" expanded="true" signature="5544:5563" ph="delete from " />
+            <marker date="1533204219047" expanded="true" signature="5761:6825" ph="insert into hm_user... " />
+            <marker date="1533204219047" expanded="true" signature="10633:10661" ph="select count... hm_user" />
+            <marker date="1533204219047" expanded="true" signature="13528:14785" ph="update hm_us... " />
+            <marker date="1533204219047" expanded="true" signature="15014:17192" ph="update hm_us... " />
+            <marker date="1533204219047" expanded="true" signature="17310:18416" ph="update hm_us... " />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/AuthTokenMapper.java">
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/HmUserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="912">
+          <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/HmUserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3048">
+          <caret line="159" column="31" lean-forward="true" selection-start-line="159" selection-start-column="31" selection-end-line="159" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#2234#2235#0" expanded="true" />
+            <element signature="e#2303#2304#0" expanded="true" />
+            <element signature="e#5778#5779#0" expanded="true" />
+            <element signature="e#5836#5837#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/vo/AuthTokenVO.java">
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/RoleMenuController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        <state relative-caret-position="456">
+          <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/AuthTokenService.java" />
-    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/AuthTokenServiceImpl.java" />
-    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/AuthTokenController.java" />
-    <entry file="file://$PROJECT_DIR$/web/src/main/filters/dev.properties">
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/AuthTokenController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="45" lean-forward="false" selection-start-line="1" selection-start-column="45" selection-end-line="1" selection-end-column="45" />
+        <state relative-caret-position="408">
+          <caret line="33" column="48" lean-forward="true" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/pdm/org.pdm">
+    <entry file="file://$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/AuthToken.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/resources/mybatis/com/haomostudio/JuniorSpringMVCTemplate/AuthTokenMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        <state relative-caret-position="792">
+          <caret line="51" column="16" lean-forward="false" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
           <folding>
-            <marker date="1533038100479" expanded="true" signature="3686:3792" ph="select from auth_token" />
-            <marker date="1533038100479" expanded="true" signature="3877:3937" ph="delete from " />
-            <marker date="1533038100479" expanded="true" signature="4062:4084" ph="delete from " />
-            <marker date="1533038100479" expanded="true" signature="4285:4525" ph="insert into auth_token... " />
-            <marker date="1533038100479" expanded="true" signature="5679:5710" ph="select count... auth_token" />
-            <marker date="1533038100479" expanded="true" signature="6622:6901" ph="update auth_... " />
-            <marker date="1533038100479" expanded="true" signature="7133:7594" ph="update auth_... " />
-            <marker date="1533038100479" expanded="true" signature="7715:7962" ph="update auth_... " />
+            <element signature="e#909#910#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/pom.xml">
+    <entry file="file://$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/po/MenuExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        <state relative-caret-position="216">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/RoleMenuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/pom.xml">
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/HmUserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="46" lean-forward="false" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        <state relative-caret-position="912">
+          <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/domain/pom.xml">
+    <entry file="file://$PROJECT_DIR$/service/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/service/impl/HmUserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="56" lean-forward="false" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dao/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="60" lean-forward="false" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/src/main/test/com/haomostudio/JuniorSpringMVCTemplate/util/MyJob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="32" lean-forward="false" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/domain/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/vo/RoleMenuVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        <state relative-caret-position="3048">
+          <caret line="159" column="31" lean-forward="false" selection-start-line="159" selection-start-column="31" selection-end-line="159" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#2234#2235#0" expanded="true" />
+            <element signature="e#2303#2304#0" expanded="true" />
+            <element signature="e#5778#5779#0" expanded="true" />
+            <element signature="e#5836#5837#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/mybatis/com/haomostudio/JuniorSpringMVCTemplate/HmUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2784">
+          <caret line="116" column="11" lean-forward="false" selection-start-line="116" selection-start-column="11" selection-end-line="116" selection-end-column="11" />
+          <folding>
+            <marker date="1533204219047" expanded="true" signature="5177:5280" ph="select from hm_user" />
+            <marker date="1533204219047" expanded="true" signature="5365:5422" ph="delete from " />
+            <marker date="1533204219047" expanded="true" signature="5544:5563" ph="delete from " />
+            <marker date="1533204219047" expanded="true" signature="5761:6825" ph="insert into hm_user... " />
+            <marker date="1533204219047" expanded="true" signature="10633:10661" ph="select count... hm_user" />
+            <marker date="1533204219047" expanded="true" signature="13528:14785" ph="update hm_us... " />
+            <marker date="1533204219047" expanded="true" signature="15014:17192" ph="update hm_us... " />
+            <marker date="1533204219047" expanded="true" signature="17310:18416" ph="update hm_us... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/dao/HmUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/HmUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2688">
+          <caret line="127" column="5" lean-forward="false" selection-start-line="127" selection-start-column="5" selection-end-line="127" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/haomostudio/JuniorSpringMVCTemplate/controller/AuthTokenController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="33" column="48" lean-forward="false" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArquillianSettingsConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
@@ -1759,7 +1472,6 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1788,7 +1500,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

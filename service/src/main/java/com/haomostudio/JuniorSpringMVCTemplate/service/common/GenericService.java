@@ -8,9 +8,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Map;
 
-/**
- * Created by stevenwang on 1/18/2016.
- */
+
 public abstract class GenericService {
 
     private SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");

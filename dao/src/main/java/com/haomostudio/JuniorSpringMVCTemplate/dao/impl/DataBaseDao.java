@@ -3,9 +3,7 @@ package com.haomostudio.JuniorSpringMVCTemplate.dao.impl;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Created by shidaizhoukan on 2017/3/16.
- */
+
 public interface DataBaseDao {
 
     String START = "start";

@@ -19,9 +19,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-/**
- * Created by Stevie on 2015/12/20.
- */
+
 public class Tools {
 
     private static SchedulerFactory schedulerFactory = new StdSchedulerFactory();

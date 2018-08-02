@@ -1,13 +1,9 @@
 package com.haomostudio.Util;
 
-/**
- * Created by guanpb on 2018/3/16.
- */
+
 import java.util.List;
 
-/**
- * Created by guanpb on 2017/9/18.
- */
+
 public class Util {
 
     public static String dealFieldsValuesDataBaseOR(List<String> fields, List<String> values, String column){
